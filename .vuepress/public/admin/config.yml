@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: yonkov/Vuepress-project
+  repo: chamara8901/vuepresite
   branch: master
 media_folder: ".vuepress/public/"
 public_folder: "../../"
