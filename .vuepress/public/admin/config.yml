@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: chamara8901/vuepresite
-  branch: master
+  branch: main
 media_folder: ".vuepress/public/"
 public_folder: "../../"
 display_url: https://stalwart-boba-e4b2e1.netlify.app
